@@ -1,0 +1,10 @@
+name: mistake_pattern_tracker
+title: Mistake pattern tracker
+description: 错题本系统：提炼自真实一对一辅导实践的常错点管理方法。核心是编号建档（错因模式+典型错例）、计数规则（重复出现+1/连续未出现+1）、销号机制（连续两次未出现即销号）、复发加深（第三次起变式题加深一层）、变式题规则（每次只打仍在犯的错因）、定期复习出题池。适用于任何需要动手练习的学科（编程、数学、语言等）。当老师要管理学生的重复性错误，或说"建错题本""常错点库""销号"时使用。不含任何真实聊天记录。
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
