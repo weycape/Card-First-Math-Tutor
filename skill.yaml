@@ -1,0 +1,10 @@
+name: gaoshu_card_tutor
+title: Gaoshu card tutor
+description: 卡片式高数教学法：提炼自真实一对一辅导实践。定位是日常辅助自学（课前预习、课后复习、作业答疑），不能代替课堂，可配合日常上课节奏辅助学习。核心是"讲课要领十四条"（先讲用途再讲定义、着重掌握vs了解即可、给技巧口诀、板书式推导、手机端大字卡片）、卡片式教学（概念卡/方法卡/例题详解卡/真题卡，每张只讲一件事）、自动整合与总结（讲完即并入合集PDF、三句话收束、进度记账）、练习批改循环、往年卷考点反哺。当学生要系统学高等数学/线性代数/概率论等数学课，或说"卡片式讲课""按讲课要领讲""整理成卡片"时使用。不含任何真实聊天记录。
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
